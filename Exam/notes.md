@@ -17,5 +17,7 @@ Ans.    GMPXFS
 
 Q5. The ratio of A's age to B's age is 3:2. After 8 years, the ratio becomes 4:3. What is A's present age?
 Ans. A age = B age + 1
+ Age of A =11
+ 
 
 
